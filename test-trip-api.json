@@ -1,0 +1,11 @@
+{
+  "source": "Delhi",
+  "destination": "Goa",
+  "startDate": "2026-05-20",
+  "endDate": "2026-05-25",
+  "budget": 5000,
+  "travelType": "family",
+  "budgetCategory": "Moderate",
+  "numberOfTravelers": 1,
+  "interests": ["Beach", "Relaxing"]
+}
