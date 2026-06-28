@@ -212,13 +212,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ---
 
-## 📞 Support
-
-- Email: navaleprasad15@gmail.com
-- Portfolio: [ngts.tech](https://ngts.tech)
-
----
-
 ## 🗺️ Roadmap
 
 - [ ] Mobile app (React Native)
